@@ -4,6 +4,8 @@ Aplicación Android diseñada para utilizar Acestream y Sopcast en sistemas Linu
 
 La aplicación mandará comandos por SSH al terminal para ejecutar la librería p2ptv-pi, además de tener la programación actual en los propios botones de la aplicación. 
 
+APK: https://www.dropbox.com/s/sf48qk1jlq47fvq/ArenaController%200.1a.apk?dl=0
+
 Autores:
 
 ablanco adriblabla@gmail.com   
