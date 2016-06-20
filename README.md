@@ -25,7 +25,8 @@ pmgrela pmgrela@gmail.com
 ## TODO
 - Cambios en el aspecto gráfico. Separar los botones en tabs.
 - Añadir opciones de onfiguración. Añadir la posibilidad de cambiar usuario, contraseña, ip...
- 
+
+Para los canales AceStream el retardo de apertura se ha fijado en 40s. 
 
 Gracias a todos los desarrolladores del p2ptv-pi, tayoken, tarasian666, somosbinarios.es y alesnav.
 Dedicado a la abuela María y a Santi
