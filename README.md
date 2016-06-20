@@ -1,6 +1,6 @@
 # Arena Controller
 
-Aplicación Android diseñada para utilizar Acestream y Sopcast en sistemas Linux. El sistema original está pensado para moverse sobre una Raspberry Pi, para tener un acceso más cómodo.
+Aplicación Android diseñada para utilizar Acestream y Sopcast en sistemas Linux. El sistema original está pensado para moverse sobre una Raspberry Pi, para tener un acceso más cómodo. Está diseñada para funcionar únicamente en Red Local.
 
 La aplicación mandará comandos por SSH al terminal para ejecutar la librería p2ptv-pi, además de tener la programación actual en los propios botones de la aplicación. 
 
