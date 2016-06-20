@@ -94,13 +94,11 @@ public class Agenda extends AsyncTask{
             if (dateNow.after(dateEvento)){
                 lastEvent = e;
             }else{
-                return lastEvent;
+                if (lastEvent.equals("")) return getTitulo(e);
+                return getTitulo(lastEvent);
             }
-            /*if(dateNow.before(dateEvento)){
-                return getTitulo(e);
-            }*/
         }
-        return lastEvent;
+        return getTitulo(lastEvent);
     }
 
     @Override
